@@ -5,7 +5,7 @@ This project detects whether a news article is **Fake or Real** using Natural La
 ---
 
 ## 🚀 Live Demo
-👉 [Add your deployed app link here]
+👉 [https://fake-news-prediction-app-tp4avvaewynhy4zpzsz9ch.streamlit.app/]
 
 ---
 
